@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Parser/Parser.iml" filepath="$PROJECT_DIR$/Parser/Parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkTest/SparkTest.iml" filepath="$PROJECT_DIR$/SparkTest/SparkTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringCounter/StringCounter.iml" filepath="$PROJECT_DIR$/StringCounter/StringCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testowy.iml" filepath="$PROJECT_DIR$/Testowy.iml" />
+    </modules>
+  </component>
+</project>
