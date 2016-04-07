@@ -22,12 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="IntegrationDemo" />
         <module name="Parser" />
         <module name="SparkTest" />
         <module name="StringCounter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="IntegrationDemo" target="1.8" />
       <module name="Parser" target="1.8" />
       <module name="SparkTest" target="1.8" />
       <module name="StringCounter" target="1.8" />
